@@ -1,4 +1,4 @@
-# mnist手写识别感知器从零实现实现（only use numpy）
+# mnist手写识别感知器系统从零实现实现（only use numpy）
 从零实现mnist数据集训练；
 
 这是一个典型的感知器结构，仅仅包含一个隐藏层

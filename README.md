@@ -1,4 +1,4 @@
-# mnist_handwriting
+# mnist手写识别感知器实现
 从零实现mnist数据集训练；
 
 这是一个典型的感知器结构，仅仅包含一个隐藏层
